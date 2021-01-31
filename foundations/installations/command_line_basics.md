@@ -60,7 +60,7 @@ Third, there's a really handy shortcut for opening everything within a project d
 
 #### Opening files in VSCode from the Command Line
 
-On Windows and Linux, you can open VSCode from the command line by typing `code`, and you can open folders or files by adding the name of the location after it: `code my_awesome_project/`.
+On Linux, you can open VSCode from the command line by typing `code`, and you can open folders or files by adding the name of the location after it: `code my_awesome_project/`.
 
 ##### MacOS Users:
 
